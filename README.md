@@ -91,21 +91,6 @@ For the 3D human pose estimation visualization, please refer to [MHFormer](https
 
 For the attention matrix visualization, this is just a 243x243 matrix, and you can easily visualize it. Let GPT/DeepSeek help you!
 
-
-
-## ✏️ Citation
-
-If you find our work useful in your research, please consider citing:
-
-    @article{liu2025tcpformer,
-        title={TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation},
-        author={Liu, Jiajie and Liu, Mengyuan and Liu, Hong and Li, Wenhao},
-        journal={arXiv preprint arXiv:2501.01770},
-        year={2025}
-    }
-
-
-
 ## 👍 Acknowledgement
 
 Our code is extended from the following repositories. We thank the authors for releasing the codes. 

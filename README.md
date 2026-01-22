@@ -97,7 +97,7 @@ Our code is extended from the following repositories. We thank the authors for r
 
 - [MixSTE](https://github.com/JinluZhang1126/MixSTE)
 - [MHFormer](https://github.com/Vegetebird/MHFormer)
-- [StridedTransformer-Pose3D](https://github.com/Vegetebird/StridedTransformer-Pose3D)
+- [StridedTransformer-Pose3D](https://github.com/Vegetebird/StridedFormer)
 - [MotionBERT](https://github.com/Walter0807/MotionBERT)
 - [MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer)
 - [TCPFormer](https://github.com/AsukaCamellia/TCPFormer)
